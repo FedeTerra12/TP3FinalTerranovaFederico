@@ -1,0 +1,9 @@
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\bin\Release\Conexiones.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\bin\Release\Conexiones.pdb
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\bin\Release\Dominios.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\bin\Release\Dominios.pdb
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\obj\Release\Conexiones.csproj.AssemblyReference.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\obj\Release\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\obj\Release\Conexiones.csproj.CopyComplete
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\obj\Release\Conexiones.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Conexiones\obj\Release\Conexiones.pdb
