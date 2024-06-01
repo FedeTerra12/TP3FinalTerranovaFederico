@@ -1,0 +1,12 @@
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\bin\Debug\Dominios.dll
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\bin\Debug\Dominios.pdb
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\obj\Debug\Dominios.csproj.AssemblyReference.cache
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\obj\Debug\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\obj\Debug\Dominios.dll
+C:\Users\fedet\OneDrive\Escritorio\TpFinal_Nv2_Terranova\Dominios\obj\Debug\Dominios.pdb
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\bin\Debug\Dominios.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\bin\Debug\Dominios.pdb
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Debug\Dominios.csproj.AssemblyReference.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Debug\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Debug\Dominios.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Debug\Dominios.pdb

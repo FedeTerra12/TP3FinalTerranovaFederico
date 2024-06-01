@@ -1,0 +1,6 @@
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\bin\Release\Dominios.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\bin\Release\Dominios.pdb
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Release\Dominios.csproj.AssemblyReference.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Release\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Release\Dominios.dll
+C:\Users\fedet\source\repos\TpFinal3TerranovaFederico\Dominios\obj\Release\Dominios.pdb
